@@ -891,7 +891,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 ################################################################# CHINESE ################################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
 #EXTINF:-1 tvg-id="astro618" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MangoTV_26.png",336 Mango TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey

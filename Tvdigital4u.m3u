@@ -86,7 +86,7 @@
 
 ################################################################### MALAYSIA ###############################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
 
 
@@ -383,7 +383,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 ######################################################################## SINGAPORE ##################################################
 
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
 
 
@@ -510,7 +510,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9855
 
 ##################################################### THAILAND #####################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 
 ttps://live1.thaitvstream.com/play/siamnewstv/index.m3u8
@@ -576,7 +577,8 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 ################################################################# INDONESIA #################################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="INDONESIA",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -784,8 +786,8 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvriwo.m3u8
 
 
 ################################################################# INDIAN #################################################################
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
-#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro365" group-title="INDIAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ColorsHindi2025.png",116 Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1010,7 +1012,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 
 ############################################################# KOREAN ############################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 #EXTINF:-1 tvg-id="astro161" group-title="KOREAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",392 KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1155,8 +1158,8 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 
 ################################################################ MOVIES ##################################################################
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
-#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro251" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png",404 Astro Boo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1370,8 +1373,8 @@ https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
 
 ################################################################# ASTRO BACKUP #################################################################
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
-#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro316" group-title="ASTRO BACKUP" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1397,7 +1400,8 @@ https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
 
 ############################################################## NEWS & DOCUMENTARY ########################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 #EXTINF:-1 tvg-id="astro436" group-title="NEWS & DOCUMENTARY" tvg-logo="",501 Astro Awani HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1538,8 +1542,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 
 
 ################################################################### KIDS #################################################################
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
-#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 tvg-id="astro411" group-title="KIDS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroTutorTV_2024.png",603 Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1666,7 +1670,8 @@ https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=
 
 ################################################################ SPORTS BACKUP #################################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 
 #EXTINF:-1 tvg-id="ASG1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="SPORTS BACKUP",795 ASG1
@@ -1941,7 +1946,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 
 ################################################################# SPORTS ASTRO #################################################################
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="SPORTS ASTRO", BEINSPORTS 1
 http://pixtv.org/live/Test22/JmSSHFpNSX/1052432.ts
@@ -2060,10 +2065,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 ################################################################# SPORTS #################################################################
 
-#EXTINF:-1 group-logo="""
-
-
-
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
 
 
 #EXTINF:-1 tvg-id="astro235" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS",801 Astro Arena
@@ -2347,7 +2349,8 @@ http://pixtv.org/live/Test22/JmSSHFpNSX/957732.ts
 ################################################################### ASTRO AUDIO ##########################################################
 
 
-#EXTINF:-1 group-logo=""
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TV_20261126_214551_0000.png"
+
 
 #EXTINF:-1 tvg-id="astro17" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="ASTRO AUDIO",HITZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
